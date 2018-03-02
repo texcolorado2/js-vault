@@ -1,0 +1,62 @@
+body{
+    background-color: gray;
+}
+
+#right{
+  background-color: green;
+  width: 100px;
+  height: 50px;
+  float: left;
+}
+
+#wrong{
+  background-color: red;
+  width: 100px;
+  height: 50px;
+  float: right;
+}
+
+#number_container{
+  background-color: blue;
+  width: 200px;
+  height: 50px;
+  font-size: 30px;
+  text-align: center;
+  display: grid;
+  color: white;
+}
+
+#message{
+  background-color: blue;
+  width: 200px;
+  height: 40px;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  display: grid;
+}
+
+#outcome{
+  background-color: blue;
+  color: white;
+  display: grid;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.buttonNumber{
+  width: 64px;
+}
+
+button{
+  width: 200px;
+}
+
+#container{
+  margin: 0 auto;
+  background-color: white;
+  width: 200px;
+  height: 233px;
+}
